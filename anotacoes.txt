@@ -1,0 +1,10 @@
+yarn global add create-react-app
+
+yarn global add react-native-cli
+
+mkdir backend
+
+yarn init -y
+
+yarn add express
+
